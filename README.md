@@ -51,6 +51,7 @@ print(X)
 ## Output:
 TO FIND L AND U MATRIX
 ![alt text](<Screenshot 2026-03-25 192142.png>)
+![alt text](<Screenshot 2026-03-26 103251.png>)
  
 TO FIND LU DECOMPOSITION OF A MATRIX
 ![alt text](<Screenshot 2026-03-25 192218.png>)
