@@ -8,6 +8,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+```
 1. Take the given square matrix A.
 2.Assume 𝐴=𝐿𝑈, where 𝐿 is lower triangular and 𝑈 is upper triangular.
 3.Initialize L as an identity matrix.
@@ -15,7 +16,7 @@ To write a program to find the LU Decomposition of a matrix.
 5.Compute elements of L column by column using values of A and U.
 6.Repeat the process until all elements of L and U are obtained.
 7.The matrices L and U are the required decomposition.
-
+```
 ## Program:
 (i) To find the L and U matrix
 ```
